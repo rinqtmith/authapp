@@ -1,5 +1,7 @@
 import React from 'react';
 
-const App = () => <h1>Test</h1>;
+import Home from './components/home/home';
+
+const App = () => <Home />;
 
 export default App;
